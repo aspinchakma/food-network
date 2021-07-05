@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
 body{
     margin:0px;
     padding:0px;
@@ -7,22 +7,70 @@ body{
 .menu-bar{
     border-bottom:2px solid #d1cfcf;
     display:flex;
-    padding:20px 0px;
+    padding:30px 0px;
     font-weight: 700;
     font-size:20px;
     padding-left:73px;
-    color:#504a4a;
+    color:#575757;
+    margin-bottom:100px;
 }
 .menu{
     display:flex;
-    margin-left:410px;
+    margin-left:618px;
 }
 .logo a{
-    color:#504a4a;
+    color:#575757;
     text-decoration:none;
 }
 .menu a{
     padding-left: 33px;
     text-decoration:none;
     color:#7c6565;
+}
+.half-width{
+    width:90%;
+    display:flex;
+    margin-left:5%;
+}
+.order{
+    width:50%
+}
+.skip{
+    color:#F6924B;
+}
+.order h1{
+    font-size: 50px;
+    font-weight: 900;
+    color:#575757;
+}
+.order{
+    padding:5px 16px;
+}
+.order p{
+    color:#828282;
+    font-weight:600;
+    padding-right:100px;
+    font-size: 18px;
+    margin-bottom:60px;
+   
+}
+.order-button{
+    text-decoration:none;
+   background-image:linear-gradient(to left, #F04E35, #F6964D);
+   padding:18px 34px;
+   border-radius:35px;
+   color:white;
+   box-shadow:1px 1px 11px #EF4C34;
+   font-weight: 600;
+
+}
+.order img{
+    width:100%
+}
+.order-h1{
+    padding-top:69px;
+    margin-top:10px;
+}
+#order-h1-h1{
+    margin-bottom:50px;
 }
