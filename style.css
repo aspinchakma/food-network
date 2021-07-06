@@ -175,3 +175,23 @@ box-shadow:1px 1px 10px #dad8d8 ;
     border-radius:32px;
     
 }
+.coustomer-review{
+    margin-bottom:100px;
+}
+.footer-food{
+    color:#FB994C;
+}
+.footer-network{
+    color:#5B5B5B;
+}
+footer p {
+    color:white;
+
+}
+footer{
+    text-align:center;
+    background-color:#0B0D17;
+    padding-top:40px;
+    padding-bottom:120px;
+
+}
